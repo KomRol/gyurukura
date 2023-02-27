@@ -1,0 +1,10 @@
+body {
+    background-color: gainsboro;
+}
+
+#content {
+    background-color: rgb(113, 109, 109) !important;
+    min-height: 100vh;
+    margin-top: 15px;
+    text-align: center;
+}
